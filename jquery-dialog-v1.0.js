@@ -6,7 +6,7 @@
 
     var dialogClassName = '.pop';
 
-    /*confirm模板*/
+    // Dialog模板
     var TEMPLATE = [
         '<div class="pop pop_tip" style="width: 100%; background: url(/static/main/images/bg_b.png); height: 100%; position: fixed; left: 0; top: 0; z-index: 4000;">',
         '<div class="pop_box" style="background: #fff; position: absolute; width: 400px; top: 50%; left: 50%; margin-left: -200px; margin-top: -200px; border: 1px solid #dcdbdb;">',
